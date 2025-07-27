@@ -19,8 +19,7 @@ A real-time object detection system designed to assist visually impaired individ
 
 ## 📸 Demo
 
-
-<img src="img/Screenshot 2024-07-17 113900.png"/>
+<table> <tr> <td><img src="img/Screenshot 2024-07-17 113900.png" width="400"/></td> <td><img src="img/Screenshot 2024-08-18 112149.png" width="400"/></td> </tr> <tr> <td><img src="img/Screenshot 2025-07-27 101327.png" width="400"/></td> <td><img src="img/Screenshot 2025-07-27 105556.png" width="400"/></td> </tr> <tr> <td><img src="img/Screenshot 2025-07-27 105818.png" width="400"/></td> <td></td> </tr> </table>
 
 ---
 
