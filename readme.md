@@ -39,4 +39,4 @@ A real-time object detection system designed to assist visually impaired individ
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/outdoor
+https://github.com/ali-haris/Outdoor-Object-Detection-for-Visually-Impaired-People-FYP-.git
