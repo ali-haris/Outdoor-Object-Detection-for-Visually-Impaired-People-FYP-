@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+torch
+ultralytics
+Pillow
+numpy
+gTTS
+sounddevice # Optional, for audio control if used later
+scipy       # Optional, for scientific computing
