@@ -13,7 +13,6 @@ A real-time object detection system designed to assist visually impaired individ
 - 🎨 Visual annotation of objects with bounding boxes
 - 🛑 Stop video anytime from the sidebar
 - 🎛 Adjustable confidence threshold for object detection
-- 🌄 Custom background and styled sidebar UI
 
 ---
 
