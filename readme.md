@@ -1,6 +1,6 @@
 # 🎯 Outdoor Object Detection for Visually Impaired People
 
-A real-time object detection system designed to assist visually impaired individuals by identifying outdoor objects using a camera and providing **audio feedback** using **YOLOv8–YOLOv10** and **Streamlit**.
+A real-time object detection system designed to assist visually impaired individuals by identifying outdoor objects using a camera and providing **audio feedback** using **YOLOv5, YOLOv8 YOLOv9 and YOLOv10** and **Streamlit**.
 
 ---
 
